@@ -1,0 +1,4 @@
+Model,Key Settings,Accuracy,F1 Score
+Random Forest,"RandomForestClassifier(n_estimators=200, random_state=42)",1.0,1.0
+Decision Tree,DecisionTreeClassifier(),1.0,1.0
+Naive Bayes,GaussianNB(),1.0,1.0

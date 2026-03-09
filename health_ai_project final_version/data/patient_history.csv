@@ -1,0 +1,6 @@
+name,age,gender,symptoms,prediction,confidence
+spt,20.0,Male,"headache, back_pain, shivering, joint_pain, stomach_pain",Allergy,
+NLH,27.0,Male,"cough, chills, skin_rash",Allergy,0.245
+kyaw gyi,16.0,Male,"cough, fatigue, dehydration, malaise, spinning_movements, irritability",Gastroenteritis,0.3
+Tun,21.0,Male,"breathlessness, drying_and_tingling_lips, throat_irritation, shivering",Heart attack,0.355
+mya mya,22.0,Male,"itching, nodal_skin_eruptions, indigestion, headache, dehydration, yellowish_skin, nausea",Fungal infection,0.38
